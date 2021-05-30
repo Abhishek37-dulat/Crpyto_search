@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Crpyto_search/static/css/main.8a4e35bd.chunk.css",
+    "main.js": "/Crpyto_search/static/js/main.04d79e18.chunk.js",
+    "main.js.map": "/Crpyto_search/static/js/main.04d79e18.chunk.js.map",
+    "runtime-main.js": "/Crpyto_search/static/js/runtime-main.0b070ba8.js",
+    "runtime-main.js.map": "/Crpyto_search/static/js/runtime-main.0b070ba8.js.map",
+    "static/js/2.d23953b4.chunk.js": "/Crpyto_search/static/js/2.d23953b4.chunk.js",
+    "static/js/2.d23953b4.chunk.js.map": "/Crpyto_search/static/js/2.d23953b4.chunk.js.map",
+    "static/js/3.00fc2822.chunk.js": "/Crpyto_search/static/js/3.00fc2822.chunk.js",
+    "static/js/3.00fc2822.chunk.js.map": "/Crpyto_search/static/js/3.00fc2822.chunk.js.map",
+    "index.html": "/Crpyto_search/index.html",
+    "static/css/main.8a4e35bd.chunk.css.map": "/Crpyto_search/static/css/main.8a4e35bd.chunk.css.map",
+    "static/js/2.d23953b4.chunk.js.LICENSE.txt": "/Crpyto_search/static/js/2.d23953b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b070ba8.js",
+    "static/js/2.d23953b4.chunk.js",
+    "static/css/main.8a4e35bd.chunk.css",
+    "static/js/main.04d79e18.chunk.js"
+  ]
+}
